@@ -16,7 +16,7 @@ namespace TestingDates
             System.Console.WriteLine("");
             System.Console.WriteLine("Sua data atual é:");
             Thread.Sleep(500);
-            var horaAtual = DateTime.Now; //Chamando a propriedade Now de da Classe DateTime para mostrar a hora atual de acordo com o dispositivo usado.
+            var horaAtual = DateTime.UtcNow; //Chamando a propriedade Now de da Classe DateTime para mostrar a hora  UTC(+00).
             System.Console.WriteLine(horaAtual); 
             var br =  new CultureInfo("pt-BR"); //Criando um padrão conforme regiao com a instancia da classe culture info
             
