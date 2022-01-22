@@ -1,0 +1,16 @@
+C:\dev\TestingDates\bin\Debug\net5.0\TestingDates.exe
+C:\dev\TestingDates\bin\Debug\net5.0\TestingDates.deps.json
+C:\dev\TestingDates\bin\Debug\net5.0\TestingDates.runtimeconfig.json
+C:\dev\TestingDates\bin\Debug\net5.0\TestingDates.runtimeconfig.dev.json
+C:\dev\TestingDates\bin\Debug\net5.0\TestingDates.dll
+C:\dev\TestingDates\bin\Debug\net5.0\ref\TestingDates.dll
+C:\dev\TestingDates\bin\Debug\net5.0\TestingDates.pdb
+C:\dev\TestingDates\obj\Debug\net5.0\TestingDates.csproj.AssemblyReference.cache
+C:\dev\TestingDates\obj\Debug\net5.0\TestingDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TestingDates\obj\Debug\net5.0\TestingDates.AssemblyInfoInputs.cache
+C:\dev\TestingDates\obj\Debug\net5.0\TestingDates.AssemblyInfo.cs
+C:\dev\TestingDates\obj\Debug\net5.0\TestingDates.csproj.CoreCompileInputs.cache
+C:\dev\TestingDates\obj\Debug\net5.0\TestingDates.dll
+C:\dev\TestingDates\obj\Debug\net5.0\ref\TestingDates.dll
+C:\dev\TestingDates\obj\Debug\net5.0\TestingDates.pdb
+C:\dev\TestingDates\obj\Debug\net5.0\TestingDates.genruntimeconfig.cache
