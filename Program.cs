@@ -22,9 +22,9 @@ namespace TestingDates
             
             System.Console.WriteLine("No formato brasileiro:");
             System.Console.WriteLine(horaAtual.ToString("g" , br)+ " - Em Portugal"); //Formatando com ToString e usando oo objeto criado de CultureInfo
-            var horaLocal = TimeZoneInfo.FindSystemTimeZoneById("Bahia Standard Time"); //chamando o método FindSystemTimeZoneById(string id) para saber o valor utc
-            System.Console.WriteLine(horaLocal);
-            var convertHora = TimeZoneInfo.ConvertTime(horaAtual,  horaLocal);//usando o método TimeZoneInfo.ConvertTime(DateTime,TimeZoneInfo) para converter a hora local 
+            var horaBahia = TimeZoneInfo.FindSystemTimeZoneById("Bahia Standard Time"); //chamando o método FindSystemTimeZoneById(string id) para saber o valor utc
+            System.Console.WriteLine(horaBahia);
+            var convertHora = TimeZoneInfo.ConvertTime(horaAtual,  horaBahia);//usando o método TimeZoneInfo.ConvertTime(DateTime,TimeZoneInfo) para converter a hora local 
             System.Console.WriteLine(convertHora.ToString("g", br));         //em hora de determinada regiao com os parametro recebidos.
 
            
